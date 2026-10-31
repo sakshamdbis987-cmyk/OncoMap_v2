@@ -1,0 +1,179 @@
+gsm_id	sample_title	tumor_id	replicate_label	sample_group	array_batch	hybridation_batch	source_name	cell_line	is_cell_line	platform	clinical_record_gsm_id	patient_clinical_record_matched	direct_gsm_clinical_match
+GSM1588970	TNBC, TUM001_repA	TUM001	repA	TNBC	B3	H1	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1588970	yes	yes
+GSM1588971	TNBC, TUM001_repB	TUM001	repB	TNBC	B7	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1588970	yes	no
+GSM1588972	Her2, TUM002_repA	TUM002	repA	Her2	B1	H2	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1588972	yes	yes
+GSM1588973	Her2, TUM002_repB	TUM002	repB	Her2	B7	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1588972	yes	no
+GSM1588974	TNBC, TUM003	TUM003		TNBC	B7	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1588974	yes	yes
+GSM1588975	TNBC, TUM004	TUM004		TNBC	B7	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1588975	yes	yes
+GSM1588976	TNBC, TUM005	TUM005		TNBC	B6	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1588976	yes	yes
+GSM1588977	TNBC, TUM006_repA	TUM006	repA	TNBC	B2	H2	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1588977	yes	yes
+GSM1588978	TNBC, TUM006_repB	TUM006	repB	TNBC	B6	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1588977	yes	no
+GSM1588979	TNBC, TUM007	TUM007		TNBC	B7	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1588979	yes	yes
+GSM1588980	TNBC, TUM008	TUM008		TNBC	B7	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1588980	yes	yes
+GSM1588981	Her2, TUM009	TUM009		Her2	B6	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1588981	yes	yes
+GSM1588982	TNBC, TUM010_repA	TUM010	repA	TNBC	B1	H1	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1588982	yes	yes
+GSM1588983	TNBC, TUM010_repB	TUM010	repB	TNBC	B7	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1588982	yes	no
+GSM1588984	TNBC, TUM011	TUM011		TNBC	B8	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1588984	yes	yes
+GSM1588985	TNBC, TUM012	TUM012		TNBC	B8	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1588985	yes	yes
+GSM1588986	TNBC, TUM013_repA	TUM013	repA	TNBC	B4	H3	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1588986	yes	yes
+GSM1588987	TNBC, TUM013_repB	TUM013	repB	TNBC	B6	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1588986	yes	no
+GSM1588988	TNBC, TUM014	TUM014		TNBC	B8	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1588988	yes	yes
+GSM1588989	Her2, TUM015_repA	TUM015	repA	Her2	B4	H2	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1588989	yes	yes
+GSM1588990	Her2, TUM015_repB	TUM015	repB	Her2	B6	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1588989	yes	no
+GSM1588991	Her2, TUM016_repA	TUM016	repA	Her2	B2	H2	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1588991	yes	yes
+GSM1588992	Her2, TUM016_repB	TUM016	repB	Her2	B7	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1588991	yes	no
+GSM1588993	TNBC, TUM017_repA	TUM017	repA	TNBC	B4	H2	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1588993	yes	yes
+GSM1588994	TNBC, TUM017_repB	TUM017	repB	TNBC	B7	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1588993	yes	no
+GSM1588995	TNBC, TUM018_repA	TUM018	repA	TNBC	B4	H1	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1588995	yes	yes
+GSM1588996	TNBC, TUM018_repB	TUM018	repB	TNBC	B7	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1588995	yes	no
+GSM1588997	Her2, TUM019	TUM019		Her2	B7	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1588997	yes	yes
+GSM1588998	Her2, TUM020_repA	TUM020	repA	Her2	B1	H3	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1588998	yes	yes
+GSM1588999	Her2, TUM020_repB	TUM020	repB	Her2	B7	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1588998	yes	no
+GSM1589000	Her2, TUM021_repA	TUM021	repA	Her2	B4	H1	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589000	yes	yes
+GSM1589001	Her2, TUM021_repB	TUM021	repB	Her2	B6	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589000	yes	no
+GSM1589002	Her2, TUM022	TUM022		Her2	B7	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589002	yes	yes
+GSM1589003	TNBC, TUM023	TUM023		TNBC	B7	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589003	yes	yes
+GSM1589004	TNBC, TUM024	TUM024		TNBC	B6	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589004	yes	yes
+GSM1589005	TNBC, TUM025	TUM025		TNBC	B8	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589005	yes	yes
+GSM1589006	Her2, TUM026_repA	TUM026	repA	Her2	B5	H3	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589006	yes	yes
+GSM1589007	Her2, TUM026_repB	TUM026	repB	Her2	B7	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589006	yes	no
+GSM1589008	Her2, TUM027	TUM027		Her2	B7	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589008	yes	yes
+GSM1589009	TNBC, TUM028_repA	TUM028	repA	TNBC	B1	H3	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589009	yes	yes
+GSM1589010	TNBC, TUM028_repB	TUM028	repB	TNBC	B6	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589009	yes	no
+GSM1589011	TNBC, TUM029	TUM029		TNBC	B8	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589011	yes	yes
+GSM1589012	TNBC, TUM030	TUM030		TNBC	B6	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589012	yes	yes
+GSM1589013	Her2, TUM031	TUM031		Her2	B8	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589013	yes	yes
+GSM1589014	TNBC, TUM032_repA	TUM032	repA	TNBC	B3	H2	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589014	yes	yes
+GSM1589015	TNBC, TUM032_repB	TUM032	repB	TNBC	B6	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589014	yes	no
+GSM1589016	TNBC, TUM033	TUM033		TNBC	B7	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589016	yes	yes
+GSM1589017	TNBC, TUM034	TUM034		TNBC	B7	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589017	yes	yes
+GSM1589018	Her2, TUM035_repA	TUM035	repA	Her2	B5	H1	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589018	yes	yes
+GSM1589019	Her2, TUM035_repB	TUM035	repB	Her2	B6	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589018	yes	no
+GSM1589020	Her2, TUM036	TUM036		Her2	B8	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589020	yes	yes
+GSM1589021	Her2, TUM037	TUM037		Her2	B7	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589021	yes	yes
+GSM1589022	Her2, TUM038_repA	TUM038	repA	Her2	B3	H1	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589022	yes	yes
+GSM1589023	Her2, TUM038_repB	TUM038	repB	Her2	B7	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589022	yes	no
+GSM1589024	TNBC, TUM039	TUM039		TNBC	B7	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589024	yes	yes
+GSM1589025	Her2, TUM040	TUM040		Her2	B7	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589025	yes	yes
+GSM1589026	Her2, TUM041	TUM041		Her2	B6	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589026	yes	yes
+GSM1589027	Her2, TUM042	TUM042		Her2	B6	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589027	yes	yes
+GSM1589028	TNBC, TUM043_repA	TUM043	repA	TNBC	B5	H2	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589028	yes	yes
+GSM1589029	TNBC, TUM043_repB	TUM043	repB	TNBC	B7	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589028	yes	no
+GSM1589030	Her2, TUM044	TUM044		Her2	B6	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589030	yes	yes
+GSM1589031	TNBC, TUM045_repA	TUM045	repA	TNBC	B1	H2	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589031	yes	yes
+GSM1589032	TNBC, TUM045_repB	TUM045	repB	TNBC	B6	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589031	yes	no
+GSM1589033	Her2, TUM046	TUM046		Her2	B7	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589033	yes	yes
+GSM1589034	Her2, TUM047	TUM047		Her2	B8	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589034	yes	yes
+GSM1589035	TNBC, TUM048_repA	TUM048	repA	TNBC	B2	H1	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589035	yes	yes
+GSM1589036	TNBC, TUM048_repB	TUM048	repB	TNBC	B7	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589035	yes	no
+GSM1589037	TNBC, TUM049	TUM049		TNBC	B7	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589037	yes	yes
+GSM1589038	TNBC, TUM050	TUM050		TNBC	B7	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589038	yes	yes
+GSM1589039	TNBC, TUM051_repA	TUM051	repA	TNBC	B2	H3	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589039	yes	yes
+GSM1589040	TNBC, TUM051_repB	TUM051	repB	TNBC	B6	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589039	yes	no
+GSM1589041	TNBC, TUM052	TUM052		TNBC	B7	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589041	yes	yes
+GSM1589042	TNBC, TUM053	TUM053		TNBC	B7	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589042	yes	yes
+GSM1589043	TNBC, TUM054	TUM054		TNBC	B7	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589043	yes	yes
+GSM1589044	Her2, TUM055	TUM055		Her2	B6	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589044	yes	yes
+GSM1589045	TNBC, TUM056	TUM056		TNBC	B6	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589045	yes	yes
+GSM1589046	Her2, TUM057	TUM057		Her2	B6	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589046	yes	yes
+GSM1589047	Her2, TUM058_repA	TUM058	repA	Her2	B2	H3	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589047	yes	yes
+GSM1589048	Her2, TUM058_repB	TUM058	repB	Her2	B6	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589047	yes	no
+GSM1589049	Her2, TUM059	TUM059		Her2	B6	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589049	yes	yes
+GSM1589050	Her2, TUM060	TUM060		Her2	B8	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589050	yes	yes
+GSM1589051	Her2, TUM061	TUM061		Her2	B7	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589051	yes	yes
+GSM1589052	Her2, TUM062	TUM062		Her2	B7	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589052	yes	yes
+GSM1589053	Her2, TUM063	TUM063		Her2	B7	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589053	yes	yes
+GSM1589054	TNBC, TUM064_repA	TUM064	repA	TNBC	B5	H3	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589054	yes	yes
+GSM1589055	TNBC, TUM064_repB	TUM064	repB	TNBC	B7	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589054	yes	no
+GSM1589056	TNBC, TUM065	TUM065		TNBC	B7	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589056	yes	yes
+GSM1589057	Her2, TUM066	TUM066		Her2	B7	H4	Breast tumor sample from IHC defined Er- Her2+ subgroup		no	GPL570	GSM1589057	yes	yes
+GSM1589058	TNBC, TUM067_repA	TUM067	repA	TNBC	B5	H1	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589058	yes	yes
+GSM1589059	TNBC, TUM067_repB	TUM067	repB	TNBC	B7	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589058	yes	no
+GSM1589060	TNBC, TUM068	TUM068		TNBC	B7	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589060	yes	yes
+GSM1589061	TNBC, TUM069	TUM069		TNBC	B7	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589061	yes	yes
+GSM1589062	TNBC, TUM070	TUM070		TNBC	B6	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589062	yes	yes
+GSM1589063	TNBC, TUM071	TUM071		TNBC	B7	H4	Breast tumor sample from IHC defined Triple Negative subgroup		no	GPL570	GSM1589063	yes	yes
+GSM1589064	Luminal A, TUM072	TUM072		Luminal A	B2	H2	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589064	yes	yes
+GSM1589065	Luminal A, TUM073	TUM073		Luminal A	B4	H2	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589065	yes	yes
+GSM1589066	Luminal A, TUM074	TUM074		Luminal A	B5	H2	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589066	yes	yes
+GSM1589067	Luminal A, TUM075	TUM075		Luminal A	B3	H1	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589067	yes	yes
+GSM1589068	Luminal A, TUM076	TUM076		Luminal A	B1	H1	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589068	yes	yes
+GSM1589069	Luminal A, TUM077	TUM077		Luminal A	B4	H2	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589069	yes	yes
+GSM1589070	Luminal A, TUM078	TUM078		Luminal A	B3	H3	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589070	yes	yes
+GSM1589071	Luminal A, TUM079	TUM079		Luminal A	B5	H2	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589071	yes	yes
+GSM1589072	Luminal A, TUM080	TUM080		Luminal A	B4	H3	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589072	yes	yes
+GSM1589073	Luminal A, TUM081	TUM081		Luminal A	B1	H1	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589073	yes	yes
+GSM1589074	Luminal A, TUM082	TUM082		Luminal A	B3	H1	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589074	yes	yes
+GSM1589075	Luminal A, TUM083	TUM083		Luminal A	B5	H3	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589075	yes	yes
+GSM1589076	Luminal A, TUM084	TUM084		Luminal A	B5	H3	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589076	yes	yes
+GSM1589077	Luminal A, TUM085	TUM085		Luminal A	B2	H1	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589077	yes	yes
+GSM1589078	Luminal A, TUM086	TUM086		Luminal A	B5	H1	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589078	yes	yes
+GSM1589079	Luminal A, TUM087	TUM087		Luminal A	B3	H2	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589079	yes	yes
+GSM1589080	Luminal A, TUM088	TUM088		Luminal A	B2	H2	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589080	yes	yes
+GSM1589081	Luminal A, TUM089	TUM089		Luminal A	B2	H3	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589081	yes	yes
+GSM1589082	Luminal A, TUM090	TUM090		Luminal A	B2	H3	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589082	yes	yes
+GSM1589083	Luminal A, TUM091	TUM091		Luminal A	B1	H3	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589083	yes	yes
+GSM1589084	Luminal A, TUM092	TUM092		Luminal A	B4	H3	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589084	yes	yes
+GSM1589085	Luminal A, TUM093	TUM093		Luminal A	B4	H1	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589085	yes	yes
+GSM1589086	Luminal A, TUM094	TUM094		Luminal A	B2	H1	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589086	yes	yes
+GSM1589087	Luminal A, TUM095	TUM095		Luminal A	B4	H2	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589087	yes	yes
+GSM1589088	Luminal A, TUM096	TUM096		Luminal A	B4	H3	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589088	yes	yes
+GSM1589089	Luminal A, TUM097	TUM097		Luminal A	B1	H2	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589089	yes	yes
+GSM1589090	Luminal A, TUM098	TUM098		Luminal A	B4	H1	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589090	yes	yes
+GSM1589091	Luminal A, TUM099	TUM099		Luminal A	B3	H1	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589091	yes	yes
+GSM1589092	Luminal A, TUM100	TUM100		Luminal A	B3	H2	Breast tumor sample from IHC defined Luminal A subgroup		no	GPL570	GSM1589092	yes	yes
+GSM1589093	Luminal B, TUM101	TUM101		Luminal B	B5	H2	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589093	yes	yes
+GSM1589094	Luminal B, TUM102	TUM102		Luminal B	B1	H2	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589094	yes	yes
+GSM1589095	Luminal B, TUM103	TUM103		Luminal B	B4	H3	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589095	yes	yes
+GSM1589097	Luminal B, TUM104	TUM104		Luminal B	B1	H3	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589097	yes	yes
+GSM1589098	Luminal B, TUM105	TUM105		Luminal B	B2	H3	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589098	yes	yes
+GSM1589099	Luminal B, TUM106	TUM106		Luminal B	B2	H2	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589099	yes	yes
+GSM1589101	Luminal B, TUM107	TUM107		Luminal B	B5	H1	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589101	yes	yes
+GSM1589103	Luminal B, TUM108	TUM108		Luminal B	B3	H2	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589103	yes	yes
+GSM1589105	Luminal B, TUM109	TUM109		Luminal B	B1	H1	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589105	yes	yes
+GSM1589107	Luminal B, TUM110	TUM110		Luminal B	B2	H2	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589107	yes	yes
+GSM1589109	Luminal B, TUM111	TUM111		Luminal B	B2	H3	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589109	yes	yes
+GSM1589110	Luminal B, TUM112	TUM112		Luminal B	B5	H3	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589110	yes	yes
+GSM1589111	Luminal B, TUM113	TUM113		Luminal B	B1	H1	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589111	yes	yes
+GSM1589112	Luminal B, TUM114	TUM114		Luminal B	B3	H2	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589112	yes	yes
+GSM1589113	Luminal B, TUM115	TUM115		Luminal B	B3	H2	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589113	yes	yes
+GSM1589114	Luminal B, TUM116	TUM116		Luminal B	B3	H3	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589114	yes	yes
+GSM1589115	Luminal B, TUM117	TUM117		Luminal B	B2	H1	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589115	yes	yes
+GSM1589116	Luminal B, TUM118	TUM118		Luminal B	B3	H3	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589116	yes	yes
+GSM1589117	Luminal B, TUM119	TUM119		Luminal B	B5	H3	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589117	yes	yes
+GSM1589118	Luminal B, TUM120	TUM120		Luminal B	B3	H1	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589118	yes	yes
+GSM1589119	Luminal B, TUM121	TUM121		Luminal B	B5	H1	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589119	yes	yes
+GSM1589120	Luminal B, TUM122	TUM122		Luminal B	B1	H3	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589120	yes	yes
+GSM1589121	Luminal B, TUM123	TUM123		Luminal B	B2	H2	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589121	yes	yes
+GSM1589122	Luminal B, TUM124	TUM124		Luminal B	B1	H2	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589122	yes	yes
+GSM1589123	Luminal B, TUM125	TUM125		Luminal B	B4	H1	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589123	yes	yes
+GSM1589124	Luminal B, TUM126	TUM126		Luminal B	B4	H3	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589124	yes	yes
+GSM1589125	Luminal B, TUM127	TUM127		Luminal B	B3	H1	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589125	yes	yes
+GSM1589126	Luminal B, TUM128	TUM128		Luminal B	B2	H1	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589126	yes	yes
+GSM1589127	Luminal B, TUM129	TUM129		Luminal B	B5	H3	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589127	yes	yes
+GSM1589128	Luminal B, TUM130	TUM130		Luminal B	B4	H1	Breast tumor sample from IHC defined Luminal B subgroup		no	GPL570	GSM1589128	yes	yes
+GSM1589129	CellLine, 184B5			CellLine	B1	H1	Sample from breast cancer derived cell line 184B5	184B5	yes	GPL570		no	no
+GSM1589130	Healthy, H3			Healthy	B1	H2	Healthy breast sample from mammoplasty surgery		no	GPL570		no	no
+GSM1589131	CellLine, MDA-MB-436			CellLine	B1	H2	Sample from breast cancer derived cell line MDA-MB-436	MDA-MB-436	yes	GPL570		no	no
+GSM1589132	Healthy, H13			Healthy	B1	H3	Healthy breast sample from mammoplasty surgery		no	GPL570		no	no
+GSM1589133	CellLine, HCC1143			CellLine	B1	H3	Sample from breast cancer derived cell line HCC1143	HCC1143	yes	GPL570		no	no
+GSM1589134	CellLine, HCC1187			CellLine	B2	H1	Sample from breast cancer derived cell line HCC1187	HCC1187	yes	GPL570		no	no
+GSM1589135	Healthy, H9			Healthy	B2	H1	Healthy breast sample from mammoplasty surgery		no	GPL570		no	no
+GSM1589136	Healthy, H10			Healthy	B2	H2	Healthy breast sample from mammoplasty surgery		no	GPL570		no	no
+GSM1589137	CellLine, BT20			CellLine	B2	H2	Sample from breast cancer derived cell line BT20	BT20	yes	GPL570		no	no
+GSM1589138	CellLine, HCC1937			CellLine	B2	H3	Sample from breast cancer derived cell line HCC1937	HCC1937	yes	GPL570		no	no
+GSM1589139	Healthy, H18			Healthy	B2	H3	Healthy breast sample from mammoplasty surgery		no	GPL570		no	no
+GSM1589140	CellLine, MCF-12A			CellLine	B3	H1	Sample from breast cancer derived cell line MCF-12A	MCF-12A	yes	GPL570		no	no
+GSM1589141	CellLine, HCC38			CellLine	B3	H2	Sample from breast cancer derived cell line HCC38	HCC38	yes	GPL570		no	no
+GSM1589142	Healthy, H12			Healthy	B3	H3	Healthy breast sample from mammoplasty surgery		no	GPL570		no	no
+GSM1589143	CellLine, Hs 578T			CellLine	B3	H3	Sample from breast cancer derived cell line Hs 578T	Hs 578T	yes	GPL570		no	no
+GSM1589144	Healthy, H11			Healthy	B4	H1	Healthy breast sample from mammoplasty surgery		no	GPL570		no	no
+GSM1589145	Healthy, H15			Healthy	B4	H1	Healthy breast sample from mammoplasty surgery		no	GPL570		no	no
+GSM1589146	CellLine, MDA-MB-468			CellLine	B4	H2	Sample from breast cancer derived cell line MDA-MB-468	MDA-MB-468	yes	GPL570		no	no
+GSM1589147	CellLine, BT-549			CellLine	B4	H3	Sample from breast cancer derived cell line BT-549	BT-549	yes	GPL570		no	no
+GSM1589148	Healthy, H4			Healthy	B5	H1	Healthy breast sample from mammoplasty surgery		no	GPL570		no	no
+GSM1589149	CellLine, HCC70			CellLine	B5	H1	Sample from breast cancer derived cell line HCC70	HCC70	yes	GPL570		no	no
+GSM1589150	Healthy, H14			Healthy	B5	H2	Healthy breast sample from mammoplasty surgery		no	GPL570		no	no
+GSM1589151	Healthy, H5			Healthy	B5	H2	Healthy breast sample from mammoplasty surgery		no	GPL570		no	no
+GSM1589152	CellLine, MDA-MB-157			CellLine	B5	H2	Sample from breast cancer derived cell line MDA-MB-157	MDA-MB-157	yes	GPL570		no	no
+GSM1589153	CellLine, MDA-MB-231			CellLine	B5	H3	Sample from breast cancer derived cell line MDA-MB-231	MDA-MB-231	yes	GPL570		no	no

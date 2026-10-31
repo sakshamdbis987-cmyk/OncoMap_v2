@@ -1,0 +1,23 @@
+# Local Python and R environments
+.venv/
+.Rlib/
+__pycache__/
+*.py[cod]
+
+# Temporary and editor files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.log
+*~
+.DS_Store
+Thumbs.db
+.Rhistory
+.RData
+
+# Downloaded GEO expression data and bulky derived matrices
+data/raw/
+data/metadata/GSE65194_clinical_data_update.txt.gz
+data/processed/GSE65194_patient_level_matrix.tsv.gz

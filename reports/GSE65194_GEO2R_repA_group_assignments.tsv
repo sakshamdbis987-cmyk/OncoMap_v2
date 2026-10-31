@@ -1,0 +1,142 @@
+gsm_id	patient_id	sample_title	original_subtype	geo2r_group	selection_reason
+GSM1588970	TUM001	TNBC, TUM001_repA	TNBC	Tumour	repA
+GSM1588972	TUM002	Her2, TUM002_repA	Her2	Tumour	repA
+GSM1588974	TUM003	TNBC, TUM003	TNBC	Tumour	singleton
+GSM1588975	TUM004	TNBC, TUM004	TNBC	Tumour	singleton
+GSM1588976	TUM005	TNBC, TUM005	TNBC	Tumour	singleton
+GSM1588977	TUM006	TNBC, TUM006_repA	TNBC	Tumour	repA
+GSM1588979	TUM007	TNBC, TUM007	TNBC	Tumour	singleton
+GSM1588980	TUM008	TNBC, TUM008	TNBC	Tumour	singleton
+GSM1588981	TUM009	Her2, TUM009	Her2	Tumour	singleton
+GSM1588982	TUM010	TNBC, TUM010_repA	TNBC	Tumour	repA
+GSM1588984	TUM011	TNBC, TUM011	TNBC	Tumour	singleton
+GSM1588985	TUM012	TNBC, TUM012	TNBC	Tumour	singleton
+GSM1588986	TUM013	TNBC, TUM013_repA	TNBC	Tumour	repA
+GSM1588988	TUM014	TNBC, TUM014	TNBC	Tumour	singleton
+GSM1588989	TUM015	Her2, TUM015_repA	Her2	Tumour	repA
+GSM1588991	TUM016	Her2, TUM016_repA	Her2	Tumour	repA
+GSM1588993	TUM017	TNBC, TUM017_repA	TNBC	Tumour	repA
+GSM1588995	TUM018	TNBC, TUM018_repA	TNBC	Tumour	repA
+GSM1588997	TUM019	Her2, TUM019	Her2	Tumour	singleton
+GSM1588998	TUM020	Her2, TUM020_repA	Her2	Tumour	repA
+GSM1589000	TUM021	Her2, TUM021_repA	Her2	Tumour	repA
+GSM1589002	TUM022	Her2, TUM022	Her2	Tumour	singleton
+GSM1589003	TUM023	TNBC, TUM023	TNBC	Tumour	singleton
+GSM1589004	TUM024	TNBC, TUM024	TNBC	Tumour	singleton
+GSM1589005	TUM025	TNBC, TUM025	TNBC	Tumour	singleton
+GSM1589006	TUM026	Her2, TUM026_repA	Her2	Tumour	repA
+GSM1589008	TUM027	Her2, TUM027	Her2	Tumour	singleton
+GSM1589009	TUM028	TNBC, TUM028_repA	TNBC	Tumour	repA
+GSM1589011	TUM029	TNBC, TUM029	TNBC	Tumour	singleton
+GSM1589012	TUM030	TNBC, TUM030	TNBC	Tumour	singleton
+GSM1589013	TUM031	Her2, TUM031	Her2	Tumour	singleton
+GSM1589014	TUM032	TNBC, TUM032_repA	TNBC	Tumour	repA
+GSM1589016	TUM033	TNBC, TUM033	TNBC	Tumour	singleton
+GSM1589017	TUM034	TNBC, TUM034	TNBC	Tumour	singleton
+GSM1589018	TUM035	Her2, TUM035_repA	Her2	Tumour	repA
+GSM1589020	TUM036	Her2, TUM036	Her2	Tumour	singleton
+GSM1589021	TUM037	Her2, TUM037	Her2	Tumour	singleton
+GSM1589022	TUM038	Her2, TUM038_repA	Her2	Tumour	repA
+GSM1589024	TUM039	TNBC, TUM039	TNBC	Tumour	singleton
+GSM1589025	TUM040	Her2, TUM040	Her2	Tumour	singleton
+GSM1589026	TUM041	Her2, TUM041	Her2	Tumour	singleton
+GSM1589027	TUM042	Her2, TUM042	Her2	Tumour	singleton
+GSM1589028	TUM043	TNBC, TUM043_repA	TNBC	Tumour	repA
+GSM1589030	TUM044	Her2, TUM044	Her2	Tumour	singleton
+GSM1589031	TUM045	TNBC, TUM045_repA	TNBC	Tumour	repA
+GSM1589033	TUM046	Her2, TUM046	Her2	Tumour	singleton
+GSM1589034	TUM047	Her2, TUM047	Her2	Tumour	singleton
+GSM1589035	TUM048	TNBC, TUM048_repA	TNBC	Tumour	repA
+GSM1589037	TUM049	TNBC, TUM049	TNBC	Tumour	singleton
+GSM1589038	TUM050	TNBC, TUM050	TNBC	Tumour	singleton
+GSM1589039	TUM051	TNBC, TUM051_repA	TNBC	Tumour	repA
+GSM1589041	TUM052	TNBC, TUM052	TNBC	Tumour	singleton
+GSM1589042	TUM053	TNBC, TUM053	TNBC	Tumour	singleton
+GSM1589043	TUM054	TNBC, TUM054	TNBC	Tumour	singleton
+GSM1589044	TUM055	Her2, TUM055	Her2	Tumour	singleton
+GSM1589045	TUM056	TNBC, TUM056	TNBC	Tumour	singleton
+GSM1589046	TUM057	Her2, TUM057	Her2	Tumour	singleton
+GSM1589047	TUM058	Her2, TUM058_repA	Her2	Tumour	repA
+GSM1589049	TUM059	Her2, TUM059	Her2	Tumour	singleton
+GSM1589050	TUM060	Her2, TUM060	Her2	Tumour	singleton
+GSM1589051	TUM061	Her2, TUM061	Her2	Tumour	singleton
+GSM1589052	TUM062	Her2, TUM062	Her2	Tumour	singleton
+GSM1589053	TUM063	Her2, TUM063	Her2	Tumour	singleton
+GSM1589054	TUM064	TNBC, TUM064_repA	TNBC	Tumour	repA
+GSM1589056	TUM065	TNBC, TUM065	TNBC	Tumour	singleton
+GSM1589057	TUM066	Her2, TUM066	Her2	Tumour	singleton
+GSM1589058	TUM067	TNBC, TUM067_repA	TNBC	Tumour	repA
+GSM1589060	TUM068	TNBC, TUM068	TNBC	Tumour	singleton
+GSM1589061	TUM069	TNBC, TUM069	TNBC	Tumour	singleton
+GSM1589062	TUM070	TNBC, TUM070	TNBC	Tumour	singleton
+GSM1589063	TUM071	TNBC, TUM071	TNBC	Tumour	singleton
+GSM1589064	TUM072	Luminal A, TUM072	Luminal A	Tumour	singleton
+GSM1589065	TUM073	Luminal A, TUM073	Luminal A	Tumour	singleton
+GSM1589066	TUM074	Luminal A, TUM074	Luminal A	Tumour	singleton
+GSM1589067	TUM075	Luminal A, TUM075	Luminal A	Tumour	singleton
+GSM1589068	TUM076	Luminal A, TUM076	Luminal A	Tumour	singleton
+GSM1589069	TUM077	Luminal A, TUM077	Luminal A	Tumour	singleton
+GSM1589070	TUM078	Luminal A, TUM078	Luminal A	Tumour	singleton
+GSM1589071	TUM079	Luminal A, TUM079	Luminal A	Tumour	singleton
+GSM1589072	TUM080	Luminal A, TUM080	Luminal A	Tumour	singleton
+GSM1589073	TUM081	Luminal A, TUM081	Luminal A	Tumour	singleton
+GSM1589074	TUM082	Luminal A, TUM082	Luminal A	Tumour	singleton
+GSM1589075	TUM083	Luminal A, TUM083	Luminal A	Tumour	singleton
+GSM1589076	TUM084	Luminal A, TUM084	Luminal A	Tumour	singleton
+GSM1589077	TUM085	Luminal A, TUM085	Luminal A	Tumour	singleton
+GSM1589078	TUM086	Luminal A, TUM086	Luminal A	Tumour	singleton
+GSM1589079	TUM087	Luminal A, TUM087	Luminal A	Tumour	singleton
+GSM1589080	TUM088	Luminal A, TUM088	Luminal A	Tumour	singleton
+GSM1589081	TUM089	Luminal A, TUM089	Luminal A	Tumour	singleton
+GSM1589082	TUM090	Luminal A, TUM090	Luminal A	Tumour	singleton
+GSM1589083	TUM091	Luminal A, TUM091	Luminal A	Tumour	singleton
+GSM1589084	TUM092	Luminal A, TUM092	Luminal A	Tumour	singleton
+GSM1589085	TUM093	Luminal A, TUM093	Luminal A	Tumour	singleton
+GSM1589086	TUM094	Luminal A, TUM094	Luminal A	Tumour	singleton
+GSM1589087	TUM095	Luminal A, TUM095	Luminal A	Tumour	singleton
+GSM1589088	TUM096	Luminal A, TUM096	Luminal A	Tumour	singleton
+GSM1589089	TUM097	Luminal A, TUM097	Luminal A	Tumour	singleton
+GSM1589090	TUM098	Luminal A, TUM098	Luminal A	Tumour	singleton
+GSM1589091	TUM099	Luminal A, TUM099	Luminal A	Tumour	singleton
+GSM1589092	TUM100	Luminal A, TUM100	Luminal A	Tumour	singleton
+GSM1589093	TUM101	Luminal B, TUM101	Luminal B	Tumour	singleton
+GSM1589094	TUM102	Luminal B, TUM102	Luminal B	Tumour	singleton
+GSM1589095	TUM103	Luminal B, TUM103	Luminal B	Tumour	singleton
+GSM1589097	TUM104	Luminal B, TUM104	Luminal B	Tumour	singleton
+GSM1589098	TUM105	Luminal B, TUM105	Luminal B	Tumour	singleton
+GSM1589099	TUM106	Luminal B, TUM106	Luminal B	Tumour	singleton
+GSM1589101	TUM107	Luminal B, TUM107	Luminal B	Tumour	singleton
+GSM1589103	TUM108	Luminal B, TUM108	Luminal B	Tumour	singleton
+GSM1589105	TUM109	Luminal B, TUM109	Luminal B	Tumour	singleton
+GSM1589107	TUM110	Luminal B, TUM110	Luminal B	Tumour	singleton
+GSM1589109	TUM111	Luminal B, TUM111	Luminal B	Tumour	singleton
+GSM1589110	TUM112	Luminal B, TUM112	Luminal B	Tumour	singleton
+GSM1589111	TUM113	Luminal B, TUM113	Luminal B	Tumour	singleton
+GSM1589112	TUM114	Luminal B, TUM114	Luminal B	Tumour	singleton
+GSM1589113	TUM115	Luminal B, TUM115	Luminal B	Tumour	singleton
+GSM1589114	TUM116	Luminal B, TUM116	Luminal B	Tumour	singleton
+GSM1589115	TUM117	Luminal B, TUM117	Luminal B	Tumour	singleton
+GSM1589116	TUM118	Luminal B, TUM118	Luminal B	Tumour	singleton
+GSM1589117	TUM119	Luminal B, TUM119	Luminal B	Tumour	singleton
+GSM1589118	TUM120	Luminal B, TUM120	Luminal B	Tumour	singleton
+GSM1589119	TUM121	Luminal B, TUM121	Luminal B	Tumour	singleton
+GSM1589120	TUM122	Luminal B, TUM122	Luminal B	Tumour	singleton
+GSM1589121	TUM123	Luminal B, TUM123	Luminal B	Tumour	singleton
+GSM1589122	TUM124	Luminal B, TUM124	Luminal B	Tumour	singleton
+GSM1589123	TUM125	Luminal B, TUM125	Luminal B	Tumour	singleton
+GSM1589124	TUM126	Luminal B, TUM126	Luminal B	Tumour	singleton
+GSM1589125	TUM127	Luminal B, TUM127	Luminal B	Tumour	singleton
+GSM1589126	TUM128	Luminal B, TUM128	Luminal B	Tumour	singleton
+GSM1589127	TUM129	Luminal B, TUM129	Luminal B	Tumour	singleton
+GSM1589128	TUM130	Luminal B, TUM130	Luminal B	Tumour	singleton
+GSM1589130		Healthy, H3	Healthy	Healthy	healthy control
+GSM1589132		Healthy, H13	Healthy	Healthy	healthy control
+GSM1589135		Healthy, H9	Healthy	Healthy	healthy control
+GSM1589136		Healthy, H10	Healthy	Healthy	healthy control
+GSM1589139		Healthy, H18	Healthy	Healthy	healthy control
+GSM1589142		Healthy, H12	Healthy	Healthy	healthy control
+GSM1589144		Healthy, H11	Healthy	Healthy	healthy control
+GSM1589145		Healthy, H15	Healthy	Healthy	healthy control
+GSM1589148		Healthy, H4	Healthy	Healthy	healthy control
+GSM1589150		Healthy, H14	Healthy	Healthy	healthy control
+GSM1589151		Healthy, H5	Healthy	Healthy	healthy control
